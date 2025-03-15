@@ -1,0 +1,32 @@
+.recipe-title {
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: black;
+  background-color: #ffd0df;
+}
+
+.home {
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+  background-color: #b2babb;
+}
+
+.ingredients {
+  font-family: "Arial", sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  background-color: #ccd1d1;
+}
+
+.subtitle {
+  font-family: "Arial", sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: #99a3a4;
+}
+
+.para {
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+}
